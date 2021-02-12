@@ -37,7 +37,7 @@ Make sure you are in your home folder ~/
 	-h help
 	-b Backup your current kismet config
 	-c Conversions and stats. Runs kismetdb_statistics,
-	kismet log tools on a files found in kimset_logs/
+	kismet log tools on a files found in kismet_logs/
 	-d Prints debug and Kismet environment info
 	-i Install Kismet. Remove ~/kismet, Git clone current release
 	-p Install plugins found in plugins/ dir
