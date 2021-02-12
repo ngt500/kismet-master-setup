@@ -1,4 +1,4 @@
-## Kimset Setup Helper
+## Kismet Setup Helper
 This tool creates a local working directory for all things related to Kismet. Called "kismet-master-setup"
 
  - Easily organize your Kismet logs into csv, json, pcap, stats and more using Kismet's log tools
